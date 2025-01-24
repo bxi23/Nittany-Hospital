@@ -1,5 +1,5 @@
 # Nittany-Hospital
-Capstone Project for CMPSC 431W - Database Management Course 
+Pre Capstone Project for CMPSC 431W - Database Management Course 
 
 do run this project
 
